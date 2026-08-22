@@ -1,0 +1,1 @@
+var e={companySlug:"aesthetic-green",companyName:"Aesthetic Green",whatsapp:"5562984350158",supportEmail:"aestheticgreen@gmail.com",website:"https://www.aestheticgreen.com.br/",AppURL:"https://aestheticgreen.app.br/",systmobile:"62992131856",telefoneEmpresa:"62984350158",API_URL:"https://agenda-api-xv1w.onrender.com/api"};export{e as a};
